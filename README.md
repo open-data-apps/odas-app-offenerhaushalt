@@ -126,17 +126,6 @@ App läuft auf http://localhost:8089 (Konfiguration wird lokal aus `odas-config/
 
 ---
 
-## Vor der Einreichung in den ODAS
-
-- [ ] Localhost-Block in `app/app-base.js` wieder **auskommentieren**
-- [ ] `odas-config/config.json`: `apiurl` leeren, Testdaten entfernen
-- [ ] `app-package.json`: Name, Beschreibung, Tags und `instanz-config` prüfen
-- [ ] Screenshots aktualisieren (`assets/Desktop_Screenshot.png`, `assets/Mobile_Screenshot.png`)
-
-Weitere Hinweise: [Open Data App-Spezifikation](https://open-data-apps.github.io/open-data-app-docs/)
-
----
-
 ## Autor
 
 © 2026, Ondics GmbH
